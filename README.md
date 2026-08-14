@@ -17,7 +17,7 @@
 - 🎯 Data Science professional with hands-on experience in **Python, SQL, Machine Learning, and Power BI**
 - 💼 Currently a **Data Science Consultant Intern @ Rubixe** — end-to-end ML projects & client POCs
 - 🏭 Previously **Production Engineer @ Lucas TVS** — root-cause analysis & process data on the shop floor
-- 🎓 B.Tech in Electrical & Electronics Engineering (CGPA 8.71)
+- 🎓 B.Tech in Electrical & Electronics Engineering (CGPA 8.60)
 - 📜 Certified Data Scientist — **NASSCOM FutureSkills Prime & IABAC**
 - 🌱 Currently sharpening: model deployment & cloud-adjacent data workflows
 - 💬 Ask me about: EDA, feature engineering, classification/regression modeling, Power BI dashboards
