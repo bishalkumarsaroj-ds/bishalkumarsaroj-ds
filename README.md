@@ -1,4 +1,4 @@
-<h1 align="center">
+û<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bishal+Kumar+Saroj;Data+Scientist+%7C+Python+%7C+SQL;Machine+Learning+%7C+Power+BI;Open+to+Data+Scientist+%2F+Analyst+roles" alt="Typing SVG" />
 </h1>
 
@@ -25,7 +25,7 @@
 - 💼 Completed a **Data Science Consultant Internship @ Rubixe** — end-to-end ML solutions & client POCs
 - 🏭 Started my career on the factory floor as a **Production Engineer @ Lucas TVS** — where I learned that data only matters if it changes a decision
 - 🧠 I turn messy datasets into models people can actually act on — not just accuracy scores
-- 🎓 B.Tech in Electrical & Electronics Engineering, CGPA **8.71**
+- 🎓 B.Tech in Electrical & Electronics Engineering, CGPA **8.60**
 - 📜 Certified Data Scientist — **NASSCOM FutureSkills Prime & IABAC**
 - 🌱 Currently leveling up: model deployment & cloud workflows
 - 📫 Let's connect: **bishalkumarsaroj2002@gmail.com**
