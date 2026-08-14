@@ -21,13 +21,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building end-to-end ML solutions as a **Data Science Consultant Intern @ Rubixe**
+- 🎯 Data Scientist actively looking for full-time opportunities in Data Science / Analytics
+- 💼 Completed a **Data Science Consultant Internship @ Rubixe** — end-to-end ML solutions & client POCs
 - 🏭 Started my career on the factory floor as a **Production Engineer @ Lucas TVS** — where I learned that data only matters if it changes a decision
-- 🎯 I turn messy datasets into models people can actually act on — not just accuracy scores
+- 🧠 I turn messy datasets into models people can actually act on — not just accuracy scores
 - 🎓 B.Tech in Electrical & Electronics Engineering, CGPA **8.71**
 - 📜 Certified Data Scientist — **NASSCOM FutureSkills Prime & IABAC**
 - 🌱 Currently leveling up: model deployment & cloud workflows
-- ⚡ Fun fact: I went from monitoring production lines to monitoring model performance
 - 📫 Let's connect: **bishalkumarsaroj2002@gmail.com**
 ### 🛠️ Tech Stack
 
