@@ -19,20 +19,16 @@
 
 ---
 
-### 🔎 About Me
+### 🚀 About Me
 
-```yaml
-role: Data Scientist
-current: Data Science Consultant Intern @ Rubixe
-previous: Production Engineer @ Lucas TVS
-education: B.Tech, Electrical & Electronics Engineering (CGPA 8.71)
-certifications: [NASSCOM FutureSkills Prime, IABAC Certified Data Scientist]
-focus: Turning messy data into decisions someone can actually act on
-currently_learning: Model deployment & cloud-adjacent data workflows
-```
-
----
-
+- 🔭 Currently building end-to-end ML solutions as a **Data Science Consultant Intern @ Rubixe**
+- 🏭 Started my career on the factory floor as a **Production Engineer @ Lucas TVS** — where I learned that data only matters if it changes a decision
+- 🎯 I turn messy datasets into models people can actually act on — not just accuracy scores
+- 🎓 B.Tech in Electrical & Electronics Engineering, CGPA **8.71**
+- 📜 Certified Data Scientist — **NASSCOM FutureSkills Prime & IABAC**
+- 🌱 Currently leveling up: model deployment & cloud workflows
+- ⚡ Fun fact: I went from monitoring production lines to monitoring model performance
+- 📫 Let's connect: **bishalkumarsaroj2002@gmail.com**
 ### 🛠️ Tech Stack
 
 <p align="center">
