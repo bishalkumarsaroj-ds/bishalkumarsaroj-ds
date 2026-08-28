@@ -1,307 +1,310 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:0F0817&height=260&section=header&text=Bishal%20Kumar%20Saroj&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20%26%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Machine+Learning+%7C+Analytics;Turning+Raw+Data+Into+Meaningful+Insights;Building+Models+That+Solve+Real+Problems" alt="Typing SVG"/>
 
-# Bishal Kumar Saroj
+# 👋 Bishal Kumar Saroj
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+Engineer;End-to-End+ML+%7C+Statistics+%7C+BI+Dashboards;Turning+Raw+Data+Into+Business+Decisions;Open+to+Data+Science+%2F+Analytics+Roles" alt="Typing SVG"/>
+### Data Scientist | Machine Learning | Analytics
 
 <br/>
 
-<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-2E1065?style=for-the-badge&labelColor=0F0817"/>
-<img src="https://img.shields.io/badge/IABAC-Certified-4C1D95?style=for-the-badge&labelColor=0F0817"/>
-<img src="https://img.shields.io/badge/Pondicherry-India-6D28D9?style=for-the-badge&labelColor=0F0817"/>
+<a href="https://linkedin.com/in/bishal-kumar-saroj-ds">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bishalkumarsaroj-ds">
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:bishalkumarsaroj2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://bishalkumarsaroj-ds.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<a href="https://bishalkumarsaroj-ds.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="https://linkedin.com/in/bishal-kumar-saroj-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="mailto:bishalkumarsaroj2002@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="https://github.com/bishalkumarsaroj-ds"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E"/></a>
+<img src="https://komarev.com/ghpvc/?username=bishalkumarsaroj-ds&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+# 👨‍💻 About Me
 
-## About Me
+I'm a **Data Scientist** with a background in Electrical and Electronics Engineering and hands-on experience in **Machine Learning, Data Analysis, SQL, and Business Intelligence**.
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+During my Data Science internship at **Rubixe**, I worked on machine learning models, data preprocessing, model evaluation, and proof-of-concept solutions. Before moving into Data Science, I worked as a **Production Engineer at Lucas TVS**, where I developed strong problem-solving, process improvement, and analytical skills.
 
-I'm a **Data Scientist** with an engineering core — B.Tech in Electrical & Electronics Engineering, sharpened into a data science career through hands-on ML delivery at **Rubixe**, where I built end-to-end models and client-facing POCs. Before that, a year as a **Production Engineer at Lucas TVS** taught me to think in systems and processes, not just scripts.
-
-I build things that hold up outside a notebook — **tuned models, validated pipelines, and BI dashboards stakeholders actually open.**
-
-</td>
-<td width="40%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-
-**🎯 Open To**
-Data Scientist · Data Analyst · Business Analyst
-
-</td>
-<td align="center" width="25%">
-
-**🧠 Focus**
-ML · Statistics · SQL · Power BI
-
-</td>
-<td align="center" width="25%">
-
-**📍 Based In**
-Pondicherry, India
-
-</td>
-<td align="center" width="25%">
-
-**📈 Best Model**
-95.78% test accuracy
-
-</td>
-</tr>
-</table>
+I enjoy working with data from start to finish — understanding the problem, cleaning and preparing the data, building machine learning models, evaluating results, and presenting insights through dashboards.
 
 <br/>
-
-## Tech Stack
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-
-**💻 Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="45"/>
-
-</td>
-<td align="center" width="25%">
-
-**🤖 Data Science / ML**
-<br/><br/>
-<img src="https://img.shields.io/badge/Pandas-2E1065?style=for-the-badge&logo=pandas&logoColor=E9D5FF"/><br/>
-<img src="https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=E9D5FF"/><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/GridSearchCV-7C3AED?style=for-the-badge&logoColor=white"/>
-
-</td>
-<td align="center" width="25%">
-
-**📊 BI & Analytics**
-<br/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/DAX-A855F7?style=for-the-badge&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Power%20Query-9333EA?style=for-the-badge&logoColor=white"/>
-
-</td>
-<td align="center" width="25%">
-
-**🛠️ Tools & Platforms**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" height="45"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## AI / ML Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Machine Learning** | 🟪🟪🟪🟪⬜ | Classification, regression, ensemble tuning |
-| **Data Preprocessing** | 🟪🟪🟪🟪🟪 | Cleaning, feature engineering, EDA |
-| **Statistical Analysis** | 🟪🟪🟪🟪⬜ | Hypothesis testing, inferential stats |
-| **SQL & Querying** | 🟪🟪🟪🟪⬜ | Joins, aggregations, query optimization |
-| **BI & Dashboards** | 🟪🟪🟪🟪⬜ | Power BI, DAX, Power Query, KPI design |
-| **Client POCs** | 🟪🟪🟪⬜⬜ | Requirement scoping, solution design |
+| 🎯 Open To | 🧠 Focus Areas | 📍 Based In | 📈 Best Result |
+|---|---|---|---|
+| Data Scientist<br>Data Analyst<br>Business Analyst | Machine Learning<br>Statistics<br>SQL<br>Power BI | Pondicherry, India | **95.78% Accuracy**<br>Customer Churn Prediction |
 
 </div>
 
-<br/>
+---
 
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 [Customer Churn Prediction](https://github.com/bishalkumarsaroj-ds/projects.git)
-Tuned Random Forest — **95.78% test accuracy**, predicting at-risk customers for proactive retention.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/GridSearchCV-6D28D9?style=flat-square&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Customer Churn Dashboard](https://github.com/bishalkumarsaroj-ds/projects.git)
-Interactive **Power BI** dashboard — KPI cards, drill-downs, and churn-driver breakdowns for stakeholders.
-
-<img src="https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-A855F7?style=flat-square&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚲 [Bike Rental Demand Prediction](https://github.com/bishalkumarsaroj-ds/projects.git)
-Regression model forecasting rental demand from weather and seasonal variables.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Cell Phone Price Classification](https://github.com/bishalkumarsaroj-ds/projects.git)
-Predicts a device's price category from its technical specifications.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 [Bank Marketing Prediction](https://github.com/bishalkumarsaroj-ds/projects.git)
-Classification model identifying customers likely to subscribe to a term deposit from campaign data.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [Automobile Price Prediction](https://github.com/bishalkumarsaroj-ds/projects.git)
-Regression model estimating vehicle prices from specification and market features.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Experience
-
-<table width="100%">
-<tr><td>
-
-**💼 Data Science Consultant Intern** — Rubixe, Bangalore
-`Nov 2025 – May 2026`
-
-End-to-end ML delivery: model building, evaluation, and client-facing proof-of-concepts translating business problems into data solutions.
-
-<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/Client%20POCs-7C3AED?style=flat-square"/>
-
-</td></tr>
-<tr><td>
-
-**⚙️ Production Engineer** — Lucas TVS, Puducherry
-`Jul 2024 – Jul 2025`
-
-Applied structured, systems-level problem solving on the production floor — the analytical foundation behind the shift into data science.
-
-<img src="https://img.shields.io/badge/Process%20Engineering-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Systems%20Thinking-4C1D95?style=flat-square"/>
-
-</td></tr>
-</table>
-
-<br/>
-
-## Achievements
+# 🛠️ Tech Stack
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|:--|:--|
-| Academic Excellence | 8.6 CGPA — B.Tech, Electrical & Electronics Engineering |
-| Diploma Distinction | 91% — Diploma in Electrical & Electronic Engineering |
-| Certified Data Scientist | NASSCOM |
-| IABAC Certified | International Association of Business Analytics Certification |
-| Model Performance | 95.78% test accuracy — Customer Churn (Random Forest) |
+### 💻 Programming & Databases
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" height="55"/>
+
+<br/><br/>
+
+### 🤖 Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GridSearchCV-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+### 📊 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-6D28D9?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" height="55"/>
 
 </div>
 
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Expertise |
+|---|---|
+| **Machine Learning** | Classification, Regression, Random Forest, Model Evaluation |
+| **Data Preprocessing** | Data Cleaning, Feature Engineering, Encoding, Scaling |
+| **Exploratory Data Analysis** | Data Visualization, Pattern Identification, Correlation Analysis |
+| **Statistical Analysis** | Descriptive Statistics, Probability, Hypothesis Testing |
+| **SQL** | Joins, Aggregations, Filtering, Data Extraction |
+| **Business Intelligence** | Power BI, DAX, Power Query, KPI Development |
+| **Model Optimization** | Hyperparameter Tuning, GridSearchCV, Cross Validation |
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔴 Customer Churn Prediction
+
+Machine Learning model developed to identify customers who are likely to leave a service.
+
+🏆 Achieved **95.78% test accuracy** using a tuned Random Forest model.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-8B5CF6?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Customer Churn Dashboard
+
+Interactive Power BI dashboard created to analyze customer churn and identify important churn patterns.
+
+Includes:
+
+- KPI Cards
+- Churn Rate Analysis
+- Customer Segmentation
+- Interactive Filters
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Query-6D28D9?style=flat-square"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚲 Bike Rental Demand Prediction
+
+Regression model developed to predict bike rental demand based on weather and seasonal information.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile Price Classification
+
+Machine Learning classification model that predicts mobile phone price categories based on technical specifications.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏦 Bank Marketing Prediction
+
+Classification model developed to identify customers likely to subscribe to a term deposit.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚗 Automobile Price Prediction
+
+Regression model created to estimate automobile prices using vehicle specifications and market-related features.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Regression-6D28D9?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+## 🔹 Data Science Consultant Intern — Rubixe
+
+📅 **Nov 2025 – May 2026**
+
+Worked on machine learning projects involving data preprocessing, exploratory data analysis, model building, evaluation, and proof-of-concept solutions.
+
+**Skills:** Python • Machine Learning • SQL • Data Analysis • Model Evaluation
+
+---
+
+## 🔹 Production Engineer — Lucas TVS
+
+📅 **Jul 2024 – Jul 2025**
+
+Worked on production processes and operational problem-solving, developing strong analytical and systems-thinking skills that supported my transition into Data Science.
+
+**Skills:** Process Improvement • Problem Solving • Data Analysis • Systems Thinking
+
+---
+
+# 🏆 Achievements
+
+| 🏆 Achievement | 📌 Details |
+|---|---|
+| 🥇 **NASSCOM Certified Data Scientist – Gold** | Successfully cleared the Certified Data Scientist assessment with a **Gold category score of 97/100** |
+| 🎓 **IABAC Certified** | Successfully completed the **Data Science Foundation** certification |
+| 📊 **Best Model Performance** | Achieved **95.78% test accuracy** in Customer Churn Prediction |
+| 🎓 **B.Tech Academic Performance** | Achieved **8.60 CGPA** in Electrical & Electronics Engineering |
+| 🏅 **Diploma Distinction** | Achieved **91%** in Electrical & Electronics Engineering |
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+## 🥇 NASSCOM Certified Data Scientist — Gold
+
+Certified under **FutureSkills Prime / NASSCOM IT-ITES Sector Skills Council**.
+
+🏆 **Gold Category**
+
+📊 **Assessment Score: 97 / 100**
+
 <br/>
 
-## Certifications
+<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-8B5CF6?style=for-the-badge&labelColor=181717"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-2E1065?style=for-the-badge&labelColor=0F0817"/>
-<img src="https://img.shields.io/badge/IABAC-Certified-4C1D95?style=for-the-badge&labelColor=0F0817"/>
-<img src="https://img.shields.io/badge/Skill_Rack-SQL_Certified-6D28D9?style=for-the-badge&labelColor=0F0817"/>
-</p>
+<br/><br/>
+
+---
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## 🎓 IABAC Data Science Foundation
 
-## GitHub Analytics
+Certified by the **International Association of Business Analytics Certification (IABAC)**.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bishalkumarsaroj-ds&show_icons=true&theme=radical&hide_border=true&bg_color=0F0817&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalkumarsaroj-ds&theme=radical&hide_border=true&background=0F0817&stroke=A855F7&ring=C084FC&fire=8B5CF6&currStreakLabel=E9D5FF" height="165"/>
-</p>
+<img src="https://img.shields.io/badge/IABAC-Data_Science_Foundation-6D28D9?style=for-the-badge&labelColor=181717"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkumarsaroj-ds&layout=compact&theme=radical&hide_border=true&bg_color=0F0817&title_color=C084FC&text_color=E9D5FF" height="165"/>
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bishalkumarsaroj-ds&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishalkumarsaroj-ds&theme=react-dark&hide_border=true&bg_color=0F0817&color=C084FC&line=A855F7&point=E9D5FF" width="95%"/>
-</p>
+# 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/bishalkumarsaroj-ds/bishalkumarsaroj-ds/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
+<div align="center">
 
-> ℹ️ The snake animation needs a one-time GitHub Actions workflow set up in your profile repo to generate.
+<img src="https://github-readme-stats.vercel.app/api?username=bishalkumarsaroj-ds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E6EDF3" height="170"/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalkumarsaroj-ds&hide_border=true&background=0D1117&stroke=A855F7&ring=C084FC&fire=8B5CF6&currStreakLabel=E6EDF3" height="170"/>
 
-## Current Focus
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkumarsaroj-ds&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E6EDF3" height="170"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
-learning:   [Advanced ML & Deep Learning, Cloud deployment for ML models]
-building:   [Personal portfolio website, End-to-end ML pipelines]
-exploring:  [MLOps fundamentals, Advanced SQL & data engineering]
-open_to:    [Data Scientist, Data Analyst, Business Analyst]
-```
+learning:
+  - Advanced Machine Learning
+  - Deep Learning
+  - TensorFlow
+  - MLOps Fundamentals
 
-<br/>
+building:
+  - End-to-End Machine Learning Projects
+  - Data Analytics Dashboards
+  - Personal Data Science Portfolio
 
-## Connect With Me
+exploring:
+  - Cloud Deployment
+  - Advanced SQL
+  - Data Engineering
 
-<p align="center">
-<a href="mailto:bishalkumarsaroj2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="https://linkedin.com/in/bishal-kumar-saroj-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="https://github.com/bishalkumarsaroj-ds"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E"/></a>
-<a href="https://bishalkumarsaroj-ds.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E"/></a>
-</p>
-
-<div align="center">
-
-*"Turning raw data into decisions worth making."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:0F0817&height=120&section=footer" width="100%"/>
-
-</div>
+open_to:
+  - Data Scientist Roles
+  - Data Analyst Roles
+  - Business Analyst Roles
