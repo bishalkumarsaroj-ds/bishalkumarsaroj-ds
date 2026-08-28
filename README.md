@@ -1,336 +1,283 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bishal%20Kumar%20Saroj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%26%20Analytics&descAlignY=55&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:0F0817&height=260&section=header&text=Bishal%20Kumar%20Saroj&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20%26%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Machine+Learning;Turning+Data+Into+Decisions;Python+%C2%B7+SQL+%C2%B7+ML+%C2%B7+Power+BI;Open+to+Data+Science+%2F+Analytics+Roles" alt="Typing SVG" />
-
-<br/>
-
-![NASSCOM](https://img.shields.io/badge/Certified-NASSCOM%20Data%20Scientist-6D28D9?style=flat-square&logo=nasscom&logoColor=white)
-![IABAC](https://img.shields.io/badge/Certified-IABAC-7C3AED?style=flat-square&logo=verifiedbadge&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Pondicherry%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+Engineer;End-to-End+ML+%7C+Statistics+%7C+BI+Dashboards;Turning+Raw+Data+Into+Business+Decisions;Open+to+Data+Science+%2F+Analytics+Roles" alt="Typing SVG"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bishalkumarsaroj-ds)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-kumar-saroj-ds)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishalkumarsaroj-ds)
+<img src="https://img.shields.io/badge/ðŸŽ“_NASSCOM-Certified_Data_Scientist-2E1065?style=for-the-badge&labelColor=0F0817"/>
+<img src="https://img.shields.io/badge/ðŸŽ“_IABAC-Certified-4C1D95?style=for-the-badge&labelColor=0F0817"/>
+<img src="https://img.shields.io/badge/ðŸ“_Pondicherry-India-6D28D9?style=for-the-badge&labelColor=0F0817"/>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bishalkumarsaroj-ds&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/bishalkumarsaroj-ds?style=flat-square&color=7c3aed&label=Followers)
-![Stars](https://img.shields.io/github/stars/bishalkumarsaroj-ds?style=flat-square&color=6d28d9&label=Stars)
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="https://linkedin.com/in/bishal-kumar-saroj-ds"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="https://github.com/bishalkumarsaroj-ds"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bishalkumarsaroj-ds&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/bishalkumarsaroj-ds?style=for-the-badge&color=7c3aed&labelColor=1A0B2E&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/bishalkumarsaroj-ds?style=for-the-badge&color=6d28d9&labelColor=1A0B2E&label=STARS"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## ðŸŸ£ About Me
+## ðŸŸ£&nbsp; About Me
 
-<div align="center">
-<img align="right" width="35%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
-</div>
+<img align="right" width="280" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 
-I'm a **Data Scientist** with a foundation in Electrical & Electronics Engineering, and a hands-on track record building **end-to-end machine learning systems** â€” from raw data to deployed insight. My recent work as a Data Science Consultant Intern at **Rubixe** had me shipping ML solutions and client-facing proof-of-concepts, while my prior year as a **Production Engineer at Lucas TVS** gave me an engineering-first, systems-thinking approach to problem solving.
+I'm a **Data Scientist** with an engineering core â€” B.Tech in Electrical & Electronics Engineering, sharpened into a data science career through hands-on ML delivery at **Rubixe**, where I built end-to-end models and client-facing POCs. Before that, a year as a **Production Engineer at Lucas TVS** taught me to think in systems and processes, not just scripts.
 
-I care about **clean data pipelines, statistically sound models, and dashboards that people actually use** â€” not just notebooks that look good in a portfolio.
+I build things that hold up outside a notebook: **tuned models, validated pipelines, and BI dashboards stakeholders actually open.**
 
-**ðŸŽ¯ Open To:**
 ```yaml
-roles:
-  - Data Scientist
-  - Data Analyst
-  - Business Analyst
-type: Full-time
-mode: Remote / Hybrid / On-site
-location: Pondicherry, India (open to relocation)
+ðŸŽ¯ Open To:      Data Scientist Â· Data Analyst Â· Business Analyst
+ðŸ§  Focus:        Machine Learning Â· Statistics Â· SQL Â· Power BI
+ðŸ“ Based in:     Pondicherry, India  (open to relocation / remote)
 ```
 
----
+<br/>
 
-## ðŸŸ£ Tech Stack
+## ðŸŸ£&nbsp; Tech Stack
+
+<table align="center">
+<tr><td valign="top" width="33%">
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 </p>
 
-**Data Science & ML**
+</td><td valign="top" width="33%">
+
+**Data Science / ML**
 <p>
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-4C1D95?style=flat-square&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2E1065?style=flat-square&logo=pandas&logoColor=E9D5FF"/>
+<img src="https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=E9D5FF"/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/GridSearchCV-7C3AED?style=flat-square&logoColor=white"/>
 </p>
 
-**Visualization & BI**
+</td><td valign="top" width="33%">
+
+**BI & Tooling**
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-6366F1?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-A855F7?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-A855F7?style=flat-square&logoColor=white"/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
 
-**Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
-</p>
+</td></tr>
+</table>
 
----
+<br/>
 
-## ðŸŸ£ AI / ML Expertise
+## ðŸŸ£&nbsp; AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | â—â—â—â—â—‹ | Regression, classification, ensemble models |
-| Data Preprocessing | â—â—â—â—â— | Cleaning, feature engineering, EDA |
-| Statistical Analysis | â—â—â—â—â—‹ | Hypothesis testing, inferential statistics |
-| SQL & Data Querying | â—â—â—â—â—‹ | Complex joins, aggregations, optimization |
-| Business Intelligence | â—â—â—â—â—‹ | Power BI dashboards, KPI reporting |
-| Client-Facing POCs | â—â—â—â—‹â—‹ | Requirement gathering, solution design |
+|:--|:--:|:--|
+| **Machine Learning** | ðŸŸªðŸŸªðŸŸªðŸŸªâ¬œ | Classification, regression, ensemble tuning |
+| **Data Preprocessing** | ðŸŸªðŸŸªðŸŸªðŸŸªðŸŸª | Cleaning, feature engineering, EDA |
+| **Statistical Analysis** | ðŸŸªðŸŸªðŸŸªðŸŸªâ¬œ | Hypothesis testing, inferential stats |
+| **SQL & Querying** | ðŸŸªðŸŸªðŸŸªðŸŸªâ¬œ | Joins, aggregations, query optimization |
+| **BI & Dashboards** | ðŸŸªðŸŸªðŸŸªðŸŸªâ¬œ | Power BI, DAX, Power Query, KPI design |
+| **Client POCs** | ðŸŸªðŸŸªðŸŸªâ¬œâ¬œ | Requirement scoping, solution design |
 
 </div>
 
----
-
-## ðŸŸ£ Featured Projects
-
-<details>
-<summary><b>ðŸ”¹ Customer Churn Prediction</b></summary>
 <br/>
 
-Built a classification model to predict customer churn, enabling proactive retention strategies from behavioral and account data.
+## ðŸŸ£&nbsp; Featured Projects
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Full customer dataset, multi-feature pipeline |
-| Performance | Tuned classification model with evaluation metrics |
-| Security | Local data handling best practices |
-| Impact | Identifies at-risk customers for retention action |
-| Repository | [View on GitHub](https://github.com/bishalkumarsaroj-ds) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### ðŸ”´ Customer Churn Prediction
+Tuned Random Forest â€” **95.78% test accuracy**, predicting at-risk customers for proactive retention.
 
-<details>
-<summary><b>ðŸ”¹ Cell Phone Price Prediction</b></summary>
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/GridSearchCV-6D28D9?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸ“Š Customer Churn Dashboard
+Interactive **Power BI** dashboard â€” KPI cards, drill-downs, and churn-driver breakdowns for stakeholders.
+
+<img src="https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-A855F7?style=flat-square&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ðŸš² Bike Rental Demand Prediction
+Regression model forecasting rental demand from weather and seasonal variables.
+
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸ“± Cell Phone Price Classification
+Predicts a device's price category from its technical specifications.
+
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ðŸ¦ Bank Marketing Prediction
+Classification model identifying customers likely to subscribe to a term deposit from campaign data.
+
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸš— Automobile Price Prediction
+Regression model estimating vehicle prices from specification and market features.
+
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=E9D5FF"/> <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=flat-square&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+> Replace `#` links with your actual repo URLs once uploaded.
+
 <br/>
 
-Regression-based model estimating mobile phone prices from technical specifications.
+## ðŸŸ£&nbsp; Experience
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Multi-feature specification dataset |
-| Performance | Evaluated with regression accuracy metrics |
-| Security | Clean, reproducible pipeline |
-| Impact | Supports pricing strategy insights |
-| Repository | [View on GitHub](https://github.com/bishalkumarsaroj-ds) |
+<table width="100%">
+<tr><td>
 
-</details>
-
-<details>
-<summary><b>ðŸ”¹ Bank Marketing Prediction</b></summary>
-<br/>
-
-Predictive model identifying customers likely to subscribe to a term deposit, based on past marketing campaign data.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Marketing campaign dataset |
-| Performance | Classification metrics-driven tuning |
-| Security | Data handled per best practices |
-| Impact | Improves targeting efficiency for campaigns |
-| Repository | [View on GitHub](https://github.com/bishalkumarsaroj-ds) |
-
-</details>
-
-<details>
-<summary><b>ðŸ”¹ Bike Rental Demand Prediction</b></summary>
-<br/>
-
-Time-aware regression model forecasting bike rental demand from historical usage and weather patterns.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Historical demand + weather dataset |
-| Performance | Regression evaluation metrics |
-| Security | Reproducible, versioned pipeline |
-| Impact | Supports demand forecasting & inventory planning |
-| Repository | [View on GitHub](https://github.com/bishalkumarsaroj-ds) |
-
-</details>
-
-<details>
-<summary><b>ðŸ”¹ Automobile Price Prediction</b></summary>
-<br/>
-
-Regression model estimating automobile prices based on vehicle specifications and market features.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Multi-feature automotive dataset |
-| Performance | Tuned for regression accuracy |
-| Security | Clean data governance |
-| Impact | Assists pricing and valuation decisions |
-| Repository | [View on GitHub](https://github.com/bishalkumarsaroj-ds) |
-
-</details>
-
----
-
-## ðŸŸ£ Experience
-
-**Data Science Consultant Intern** Â· Rubixe, Bangalore
+**ðŸ’¼ Data Science Consultant Intern** â€” Rubixe, Bangalore
 `Nov 2025 â€“ May 2026`
 
-End-to-end machine learning delivery for client-facing projects.
-- Built and iterated on ML models across the full lifecycle â€” from data cleaning to model evaluation
-- Developed client proof-of-concepts (POCs) translating business problems into data solutions
-- Collaborated cross-functionally to scope and deliver data science engagements
+End-to-end ML delivery: model building, evaluation, and client-facing proof-of-concepts translating business problems into data solutions.
 
-`Python` `Machine Learning` `SQL` `Client POCs`
+<img src="https://img.shields.io/badge/Python-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/Client%20POCs-7C3AED?style=flat-square"/>
+
+</td></tr>
+<tr><td>
+
+**âš™ï¸ Production Engineer** â€” Lucas TVS, Puducherry
+`Jul 2024 â€“ Jul 2025`
+
+Applied structured, systems-level problem solving on the production floor â€” the analytical foundation behind the shift into data science.
+
+<img src="https://img.shields.io/badge/Process%20Engineering-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Systems%20Thinking-4C1D95?style=flat-square"/>
+
+</td></tr>
+</table>
 
 <br/>
 
-**Production Engineer** Â· Lucas TVS, Puducherry
-`Jul 2024 â€“ Jul 2025`
-
-Engineering role bridging shop-floor operations with process/data-driven thinking.
-- Applied structured, systems-level problem solving to production processes
-- Built the analytical foundation that later shaped a data science career transition
-
-`Process Engineering` `Problem Solving` `Systems Thinking`
-
----
-
-## ðŸŸ£ Achievements
+## ðŸŸ£&nbsp; Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| ðŸŽ“ Academic Excellence | 8.6 CGPA â€” B.Tech, Electrical & Electronics Engineering |
-| ðŸŽ“ Diploma Distinction | 91% â€” Diploma in Electrical & Electronic Engineering |
-| ðŸ“œ Certified Data Scientist | NASSCOM |
-| ðŸ“œ IABAC Certified | International Association of Business Analytics Certification |
+| ðŸ† Recognition | Details |
+|:--|:--|
+| Academic Excellence | 8.6 CGPA â€” B.Tech, Electrical & Electronics Engineering |
+| Diploma Distinction | 91% â€” Diploma in Electrical & Electronic Engineering |
+| Certified Data Scientist | NASSCOM |
+| IABAC Certified | International Association of Business Analytics Certification |
+| Model Performance | 95.78% test accuracy â€” Customer Churn (Random Forest) |
 
 </div>
 
----
+<br/>
 
-## ðŸŸ£ Certifications
-
-**NASSCOM**
-![NASSCOM](https://img.shields.io/badge/Certified%20Data%20Scientist-6D28D9?style=for-the-badge&logo=nasscom&logoColor=white)
-
-**IABAC**
-![IABAC](https://img.shields.io/badge/IABAC%20Certified-7C3AED?style=for-the-badge&logo=verifiedbadge&logoColor=white)
-
-**Skill Rack**
-![SQL](https://img.shields.io/badge/SQL%20Certified-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## ðŸŸ£ Coding Profiles
+## ðŸŸ£&nbsp; Certifications
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-A855F7?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-2E1065?style=for-the-badge&labelColor=0F0817"/>
+<img src="https://img.shields.io/badge/IABAC-Certified-4C1D95?style=for-the-badge&labelColor=0F0817"/>
+<img src="https://img.shields.io/badge/Skill_Rack-SQL_Certified-6D28D9?style=for-the-badge&labelColor=0F0817"/>
 </p>
 
-> âš ï¸ Add your actual profile links â€” placeholders above (`#`) need your handles.
+<br/>
 
----
+## ðŸŸ£&nbsp; Coding Profiles
 
-## ðŸŸ£ GitHub Analytics
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A0B2E"/></a>
+</p>
 
-<div align="center">
+> âš ï¸ Swap `#` for your real profile links.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bishalkumarsaroj-ds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalkumarsaroj-ds&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkumarsaroj-ds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-</div>
+## ðŸŸ£&nbsp; GitHub Analytics
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bishalkumarsaroj-ds&show_icons=true&theme=radical&hide_border=true&bg_color=0F0817&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalkumarsaroj-ds&theme=radical&hide_border=true&background=0F0817&stroke=A855F7&ring=C084FC&fire=8B5CF6&currStreakLabel=E9D5FF" height="165"/>
+</p>
 
-## ðŸŸ£ GitHub Trophies
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalkumarsaroj-ds&layout=compact&theme=radical&hide_border=true&bg_color=0F0817&title_color=C084FC&text_color=E9D5FF" height="165"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bishalkumarsaroj-ds&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bishalkumarsaroj-ds&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishalkumarsaroj-ds&theme=react-dark&hide_border=true&bg_color=0F0817&color=C084FC&line=A855F7&point=E9D5FF" width="95%"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/bishalkumarsaroj-ds/bishalkumarsaroj-ds/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
 
----
+> â„¹ï¸ The snake animation needs a one-time GitHub Actions workflow set up in your profile repo to generate.
 
-## ðŸŸ£ Contribution Activity
+<br/>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishalkumarsaroj-ds&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD)
-
-</div>
-
----
-
-## ðŸŸ£ Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/bishalkumarsaroj-ds/bishalkumarsaroj-ds/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> â„¹ï¸ Snake animation requires a one-time GitHub Actions workflow set up in your profile repo to generate this SVG.
-
----
-
-## ðŸŸ£ Current Focus
+## ðŸŸ£&nbsp; Current Focus
 
 ```yaml
-learning:
-  - Advanced Machine Learning & Deep Learning
-  - Cloud deployment for ML models
-building:
-  - Personal portfolio website
-  - End-to-end ML project pipelines
-exploring:
-  - MLOps fundamentals
-  - Advanced SQL & data engineering concepts
-open_to:
-  - Data Scientist roles
-  - Data Analyst / Business Analyst roles
+learning:   [Advanced ML & Deep Learning, Cloud deployment for ML models]
+building:   [Personal portfolio website, End-to-end ML pipelines]
+exploring:  [MLOps fundamentals, Advanced SQL & data engineering]
+open_to:    [Data Scientist, Data Analyst, Business Analyst]
 ```
 
----
+<br/>
 
-## ðŸŸ£ Connect With Me
+## ðŸŸ£&nbsp; Connect With Me
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bishal-kumar-saroj-ds"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/bishalkumarsaroj-ds"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-2E1065?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="https://linkedin.com/in/bishal-kumar-saroj-ds"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="https://github.com/bishalkumarsaroj-ds"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E"/></a>
 </p>
-
----
 
 <div align="center">
 
 *"Turning raw data into decisions worth making."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:0F0817&height=120&section=footer" width="100%"/>
 
 </div>
