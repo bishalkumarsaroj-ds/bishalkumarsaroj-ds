@@ -38,7 +38,7 @@ I'm a **Data Scientist** with a background in Electrical and Electronics Enginee
 
 During my Data Science internship at **Rubixe**, I worked on machine learning models, data preprocessing, model evaluation, and proof-of-concept solutions. Before moving into Data Science, I worked as a **Production Engineer at Lucas TVS**, where I developed strong problem-solving, process improvement, and analytical skills.
 
-I enjoy working with data from start to finish — understanding the problem, cleaning and preparing the data, building machine learning models, evaluating results, and presenting insights through dashboards.
+I enjoy working with data from start to finish — understanding the problem, cleaning and preparing the data, building machine learning models, evaluating results, deploying them as usable tools, and presenting insights through dashboards.
 
 <br/>
 
@@ -46,7 +46,7 @@ I enjoy working with data from start to finish — understanding the problem, cl
 
 | 🎯 Open To | 🧠 Focus Areas | 📍 Based In | 📈 Best Result |
 |---|---|---|---|
-| Data Scientist<br>Data Analyst<br>Business Analyst | Machine Learning<br>Statistics<br>SQL<br>Power BI | Pondicherry, India | **95.78% Accuracy**<br>Customer Churn Prediction |
+| Data Scientist<br>Data Analyst<br>Business Analyst | Machine Learning<br>Statistics<br>SQL<br>Power BI | Pondicherry, India | **95.78% Accuracy**<br>Customer Churn Prediction (Deployed) |
 
 </div>
 
@@ -76,6 +76,14 @@ I enjoy working with data from start to finish — understanding the problem, cl
 
 <br/><br/>
 
+### 🚀 Deployment
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/><br/>
+
 ### 📊 Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -101,6 +109,7 @@ I enjoy working with data from start to finish — understanding the problem, cl
 | **Exploratory Data Analysis** | Data Visualization, Pattern Identification, Correlation Analysis |
 | **Statistical Analysis** | Descriptive Statistics, Probability, Hypothesis Testing |
 | **SQL** | Joins, Aggregations, Filtering, Data Extraction |
+| **Model Deployment** | Streamlit, Model Serialization, Git/GitHub Version Control |
 | **Business Intelligence** | Power BI, DAX, Power Query, KPI Development |
 | **Model Optimization** | Hyperparameter Tuning, GridSearchCV, Cross Validation |
 
@@ -114,15 +123,17 @@ I enjoy working with data from start to finish — understanding the problem, cl
 
 <td width="50%" valign="top">
 
-## 🔴 Customer Churn Prediction
+## 🔴 Customer Churn Prediction | Deployed App
 
-Machine Learning model developed to identify customers who are likely to leave a service.
+End-to-end ML project — data cleaning, EDA, feature engineering, and model comparison — deployed as a **live, interactive web app**.
 
-🏆 Achieved **95.78% test accuracy** using a tuned Random Forest model.
+🏆 **95.78% test accuracy** with a tuned Random Forest model.
+
+🔗 [**Live App**](https://share.streamlit.io) &nbsp;|&nbsp; [**GitHub Repo**](https://github.com/bishalkumarsaroj-ds/-telecom-churn-prediction)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random%20Forest-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
 
@@ -229,6 +240,7 @@ Worked on production processes and operational problem-solving, developing stron
 
 | 🏆 Achievement | 📌 Details |
 |---|---|
+| 🚀 **Deployed ML Application** | Built and shipped a live churn prediction web app end-to-end (model → app → GitHub) |
 | 🥇 **NASSCOM Certified Data Scientist – Gold** | Successfully cleared the Certified Data Scientist assessment with a **Gold category score of 97/100** |
 | 🎓 **IABAC Certified** | Successfully completed the **Data Science Foundation** certification |
 | 📊 **Best Model Performance** | Achieved **95.78% test accuracy** in Customer Churn Prediction |
@@ -308,3 +320,4 @@ open_to:
   - Data Scientist Roles
   - Data Analyst Roles
   - Business Analyst Roles
+```
