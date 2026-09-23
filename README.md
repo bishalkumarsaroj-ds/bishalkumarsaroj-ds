@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Machine+Learning+%7C+Analytics;Turning+Raw+Data+Into+Meaningful+Insights;Building+Models+That+Solve+Real+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+Machine+Learning+%7C+Analytics;Turning+Raw+Data+Into+Meaningful+Insights;Building+Models+That+Solve+Real+Problems" alt="Typing SVG"/>
 
 # 👋 Bishal Kumar Saroj
 
 ### Data Scientist | Machine Learning | Analytics
+
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-Data_Scientist_%7C_Analyst_%7C_Business_Analyst-5B21B6?style=for-the-badge&labelColor=D4AF37&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Entry_Level-Fresher-5B21B6?style=for-the-badge&labelColor=D4AF37"/>
 
 <br/>
 
@@ -36,9 +39,11 @@
 
 I'm a **Data Scientist** with a background in Electrical and Electronics Engineering and hands-on experience in **Machine Learning, Data Analysis, SQL, and Business Intelligence**.
 
-During my Data Science internship at **Rubixe**, I worked on machine learning models, data preprocessing, model evaluation, and proof-of-concept solutions. Before moving into Data Science, I worked as a **Production Engineer at Lucas TVS**, where I developed strong problem-solving, process improvement, and analytical skills.
+I recently completed a **Data Science Consultant internship at Rubixe**, where I worked on end-to-end ML projects, data preprocessing, model evaluation, and client proof-of-concept solutions. Before moving into Data Science, I worked as a **Production Engineer at Lucas TVS**, where I developed strong problem-solving, process improvement, and analytical skills.
 
-I enjoy working with data from start to finish — understanding the problem, cleaning and preparing the data, building machine learning models, evaluating results, deploying them as usable tools, and presenting insights through dashboards.
+I'm an **entry-level / fresher candidate**, currently interviewing and actively looking for a good opportunity as a **Data Scientist, Data Analyst, or Business Analyst**. I enjoy working with data from start to finish — understanding the problem, cleaning and preparing the data, building machine learning models, evaluating results, deploying them as usable tools, and presenting insights through dashboards.
+
+📩 **Open to opportunities** — feel free to reach out if you're hiring or know a good fit!
 
 <br/>
 
@@ -125,7 +130,7 @@ I enjoy working with data from start to finish — understanding the problem, cl
 
 ## 🔴 Customer Churn Prediction | Deployed App
 
-End-to-end ML project — data cleaning, EDA, feature engineering, and model comparison — deployed as a **live, interactive web app**.
+Full end-to-end ML portfolio project — data cleaning, EDA, feature engineering, model training/comparison — deployed as a **live, interactive Streamlit web app**, with model, scaler, and documentation published on GitHub.
 
 🏆 **95.78% test accuracy** with a tuned Random Forest model.
 
@@ -253,29 +258,75 @@ Worked on production processes and operational problem-solving, developing stron
 
 <div align="center">
 
-## 🥇 NASSCOM Certified Data Scientist — Gold
+<table>
+<tr>
+<td align="center" width="50%">
 
-Certified under **FutureSkills Prime / NASSCOM IT-ITES Sector Skills Council**.
+### 🥇 NASSCOM Certified Data Scientist — Gold
 
-🏆 **Gold Category**
+Certified under **FutureSkills Prime / NASSCOM IT-ITES Sector Skills Council**
 
-📊 **Assessment Score: 97 / 100**
+🏆 **Gold Category** &nbsp;•&nbsp; 📊 **Score: 97/100**
+
+<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-5B21B6?style=for-the-badge&labelColor=D4AF37&logoColor=D4AF37"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 IABAC Data Science Foundation
+
+Certified by the **International Association of Business Analytics Certification (IABAC)**
 
 <br/>
 
-<img src="https://img.shields.io/badge/NASSCOM-Certified_Data_Scientist-8B5CF6?style=for-the-badge&labelColor=181717"/>
+<img src="https://img.shields.io/badge/IABAC-Data_Science_Foundation-5B21B6?style=for-the-badge&labelColor=D4AF37&logoColor=D4AF37"/>
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<br/>
+### 🧪 Forage Job Simulations
 
-## 🎓 IABAC Data Science Foundation
+<div align="center">
 
-Certified by the **International Association of Business Analytics Certification (IABAC)**.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="assets/tata-logo.png" height="45"/><br/><br/>
+<b>Tata</b><br/>
+<sub>GenAI Powered Data Analytics<br/>Job Simulation</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/british-airways-logo.png" height="45"/><br/><br/>
+<b>British Airways</b><br/>
+<sub>Data Science<br/>Job Simulation</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/lloyds-logo.png" height="45"/><br/><br/>
+<b>Lloyds Banking Group</b><br/>
+<sub>Data Science<br/>Job Simulation</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/deloitte-logo.png" height="45"/><br/><br/>
+<b>Deloitte</b><br/>
+<sub>Data Analytics<br/>Job Simulation</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/IABAC-Data_Science_Foundation-6D28D9?style=for-the-badge&labelColor=181717"/>
+| Company | Skills Covered |
+|---|---|
+| 🔵 **Tata** | EDA & risk profiling, predicting delinquency with AI, data storytelling, AI-driven collections strategy |
+| 🔴 **British Airways** | Modeling lounge eligibility, predicting customer buying behaviour |
+| 🟢 **Lloyds Banking Group** | Data gathering & exploratory analysis, building a machine learning model |
+| ⚫ **Deloitte** | Data analysis, forensic technology |
+
+<img src="https://img.shields.io/badge/Forage-Job_Simulations_Completed-5B21B6?style=for-the-badge&labelColor=D4AF37&logoColor=D4AF37"/>
+
 
 </div>
 
@@ -309,7 +360,7 @@ learning:
 building:
   - End-to-End Machine Learning Projects
   - Data Analytics Dashboards
-  - Personal Data Science Portfolio
+  - Personal Data Science Portfolio Website
 
 exploring:
   - Cloud Deployment
@@ -321,3 +372,11 @@ open_to:
   - Data Analyst Roles
   - Business Analyst Roles
 ```
+
+<div align="center">
+
+### 💬 Let's Connect
+
+I'm actively interviewing and open to new opportunities — always happy to talk data, ML, or potential roles!
+
+</div>
