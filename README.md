@@ -1,268 +1,129 @@
-# <div align="center">
-# 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Bishal+Kumar+Saroj;Data+Scientist+%7C+ML+Engineer;Python+•+SQL+•+Power+BI)
-# 
-# </div>
+# Insert this BEFORE the "Let's Connect" section in your existing profile
 
 ---
 
-## <div align="center"> 🎯 | About Me | 🎯 </div>
-
-<p align="center">
-  <b>Turning raw data into solutions that actually work</b> 📊
-</p>
-
-I'm a **Data Scientist & ML Engineer** who builds production-ready machine learning solutions. Not just high accuracy—real business impact.
-
-At **Rubixe**, I shipped end-to-end ML solutions for enterprise clients. At **Lucas TVS**, I traced production bottlenecks using data. Now I'm looking for my next big challenge in supply chain optimization & predictive analytics.
+# 🗺️ My Journey & Growth Path
 
 <div align="center">
 
-**What I'm passionate about:**  
-🤖 Building deployable ML models | 📊 Data-driven insights | 🔍 Finding signal in noise | 🚀 End-to-end ownership
+```
+                         🎯 CURRENT GOAL
+                              ↑
+                              │
+                    Data Scientist Roles
+                    ML Engineer Positions
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+        ▼                     ▼                     ▼
+   📊 DATA SCIENCE      🤖 ML EXPERTISE       💼 BUSINESS
+   • Python            • Classification       • Stakeholder
+   • SQL               • Regression           • ROI Focus
+   • Statistics        • Model Tuning         • Dashboards
+        │                     │                     │
+        └─────────────────────┼─────────────────────┘
+                              │
+                              ▼
+                    💡 END-TO-END OWNERSHIP
+                    (Problem → Solution → Deployment)
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+        ▼                     ▼                     ▼
+    🏭 LUCAS TVS      📈 RUBIXE (Current)    🎓 EDUCATION
+    Production Eng.   Data Science Intern    B.Tech 8.6 CGPA
+    (1 Year)          (7 Months)             Diploma 91%
+        │                     │                     │
+        └─────────────────────┼─────────────────────┘
+                              ▼
+                     🚀 READY FOR NEXT CHALLENGE
+```
+
+**Path:** Engineering → Data Science → ML Leadership
 
 </div>
 
 ---
 
-## <div align="center"> ⚡ | Tech Stack | ⚡ </div>
+# 🤝 Let's Connect!
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## **I'm actively interviewing — let's talk!**
 
-### ML & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/>
 
-### Visualization & Dashboards
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4078C0?style=for-the-badge)
+### 📧 **Direct Contact**
 
-### Deployment & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="mailto:bishalkumarsaroj2002@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-bishalkumarsaroj2002@gmail.com-D14836?style=for-the-badge&labelColor=1a1a1a&logoColor=white&fontFamily=monospace" alt="Email"/>
+</a>
 
-</div>
+<a href="tel:+918925359104">
+  <img src="https://img.shields.io/badge/📱_WhatsApp-+91_8925359104-25D366?style=for-the-badge&labelColor=1a1a1a&logoColor=white&fontFamily=monospace" alt="WhatsApp"/>
+</a>
 
----
+<br/><br/>
 
-## <div align="center"> 💼 | Experience | 💼 </div>
+### 🌐 **Professional Links**
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║  📊 DATA SCIENTIST @ RUBIXE AI SOLUTIONS                       ║
-║  📅 Nov 2025 - May 2026 | Bengaluru                            ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  ✓ Designed & deployed ML models for 5+ enterprise POCs        ║
-║  ✓ Built churn prediction model (95.78% accuracy)              ║
-║  ✓ Created Power BI dashboards with KPI tracking              ║
-║  ✓ End-to-end pipelines: clean → EDA → features → deploy       ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+<a href="https://linkedin.com/in/bishal-kumar-saroj-ds">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
+</a>
 
-╔════════════════════════════════════════════════════════════════╗
-║  🏭 PRODUCTION ENGINEER @ LUCAS TVS                            ║
-║  📅 Jul 2024 - Jul 2025 | Puducherry                           ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  ✓ Identified quality bottlenecks using data analysis          ║
-║  ✓ Uncovered root causes of defects                            ║
-║  ✓ Maintained quality documentation & CI initiatives           ║
-║  ✓ Developed data-driven problem solving mindset              ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/bishalkumarsaroj-ds">
+  <img src="https://img.shields.io/badge/💻_GitHub-View_My_Code-181717?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
+</a>
 
----
+<a href="https://bishalkumarsaroj-ds.netlify.app">
+  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Website-8B5CF6?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
+</a>
 
-## <div align="center"> 🏆 | Certifications & Achievements | 🏆 </div>
+<br/><br/>
 
-<div align="center">
+### 📋 **What I'm Looking For**
 
-| 🎓 **Certification** | 🏢 **Organization** | ✅ **Status** |
+| **Role** | **Focus** | **Location** |
 |---|---|---|
-| Certified Data Scientist | NASSCOM FutureSkills Prime | ✔️ |
-| Certified Data Scientist | IABAC | ✔️ |
-| Data Science Job Simulation | Tata (GenAI Analytics) | ✔️ |
-| Data Science Job Simulation | British Airways | ✔️ |
-| Data Science Job Simulation | Lloyds Banking Group | ✔️ |
-| Data Analytics Job Simulation | Deloitte | ✔️ |
+| 🎯 Data Scientist | Machine Learning Solutions | Remote / Bengaluru |
+| 📊 Data Analyst | Business Intelligence | Puducherry / Chennai |
+| 🤖 Business Analyst | Data-Driven Decisions | India-based |
 
-</div>
+<br/>
 
----
+### ⚡ **Quick Facts**
 
-## <div align="center"> 🚀 | Featured Projects | 🚀 </div>
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Notice_Period-Ready_to_Join-success?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Experience-Fresher_%2B_Internship-blue?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Best_Result-95.78%_Accuracy-blueviolet?style=flat-square&labelColor=1a1a1a"/>
 
-<div align="center">
+<br/><br/>
 
-### 1️⃣ Customer Churn Prediction Model
-<a href="https://github.com/bishalkumarsaroj-ds">
-  <img src="https://img.shields.io/badge/Python-Scikit--Learn-blue?style=for-the-badge" alt="Python Scikit-Learn">
-</a>
+### 💬 **Let's Chat About:**
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  📈 Accuracy: 95.78% | Type: Classification
-  🎯 Impact: Identify at-risk customers for retention
-  🛠️ Tools: Python | Scikit-Learn | Power BI | Streamlit
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ Data Science & Machine Learning
+📊 Your Business Problem (I'd love to understand it)
+🚀 Growth Opportunities in your organization
+💡 Interesting projects or challenges
+🤝 Mentoring or collaboration opportunities
 ```
 
-**What I Built:**
-- 🔍 End-to-end ML pipeline (data → production)
-- 🎨 Interactive Streamlit deployment
-- 📊 Power BI dashboard with segment analysis
-- 🚀 Ready for business stakeholders
-
----
-
-### 2️⃣ Interactive Customer Dashboard (Power BI)
-<a href="https://github.com/bishalkumarsaroj-ds">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge" alt="Power BI">
-</a>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  📊 KPI Cards | 🔍 Drill-Down | 📈 Trend Analysis
-  👥 Segment by: Region | Contract | Usage Patterns
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-### 3️⃣ Other ML Projects
-
-| Project | Type | Key Metric |
-|---------|------|-----------|
-| 📱 **Cell Phone Price Prediction** | Classification | High Accuracy |
-| 🏦 **Bank Marketing Prediction** | Classification | High Precision |
-| 🚴 **Bike Rental Demand** | Time Series | RMSE Optimized |
-| 🚗 **Automobile Price Prediction** | Regression | R² Score |
-
-</div>
-
----
-
-## <div align="center"> 📊 | Skills Heatmap | 📊 </div>
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    SKILL BREAKDOWN                        ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  Python Programming      ████████████████░░ 90%           ║
-║  SQL & Databases         ███████████░░░░░░░ 75%           ║
-║  Machine Learning        █████████████████░ 85%           ║
-║  Data Analysis & EDA     ████████████████░░ 88%           ║
-║  Feature Engineering     █████████████████░ 85%           ║
-║  Model Deployment        ██████████████░░░░ 80%           ║
-║  Power BI & Dashboards   ███████████████░░░ 82%           ║
-║  Statistics & Math       █████████████░░░░░ 78%           ║
-║  Problem Solving         ██████████████████ 90%           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-## <div align="center"> 🎓 | Education | 🎓 </div>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ 🎓 B.Tech in Electrical & Electronics Engineering       │
-│    Manakula Vinayagar Institute of Technology           │
-│    📍 Puducherry | 📅 2021-2024 | CGPA: 8.6/10         │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│ 🎖️ Diploma in Electrical & Electronics Engineering      │
-│    Sri Manakula Vinayagar Polytechnic College           │
-│    📍 Puducherry | 📅 2018-2021 | Score: 91%           │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## <div align="center"> 📈 | What I'm Working On | 📈 </div>
-
-<div align="center">
-
-🔨 **Building:**
-- Comprehensive ML portfolio with polished Streamlit deployments
-- Detailed GitHub documentation for all projects
-- Blog posts on ML workflows & best practices
-- Enhanced Power BI dashboards for case studies
-
-🎯 **Currently Looking For:**
-- Data Scientist roles
-- ML Engineer positions
-- Supply Chain Optimization projects
-- Predictive Analytics challenges
-
-</div>
-
----
-
-## <div align="center"> 🤝 | Let's Connect | 🤝 </div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-bishalkumarsaroj2002%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalkumarsaroj2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bishal--kumar--saroj--ds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-kumar-saroj-ds)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bishalkumarsaroj--ds.netlify.app-blueviolet?style=for-the-badge&logo=netlify&logoColor=white)](https://bishalkumarsaroj-ds.netlify.app)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208925359104-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918925359104)
-
-</div>
-
----
-
-## <div align="center"> 💡 | Current Status | 💡 </div>
-
-```
-╔════════════════════════════════════════════════╗
-║  🟢 OPEN TO OPPORTUNITIES                      ║
-║                                                ║
-║  🎯 Target Roles:                              ║
-║     • Data Scientist                           ║
-║     • ML Engineer                              ║
-║     • Data Analyst                             ║
-║                                                ║
-║  📍 Locations:                                 ║
-║     • Remote (Preferred)                       ║
-║     • Bengaluru, Chennai                       ║
-║     • Puducherry                               ║
-║                                                ║
-║  💼 Notice Period: Ready to Join               ║
-║                                                ║
-╚════════════════════════════════════════════════╝
-```
-
----
-
-## <div align="center">
-
-### ⭐ If you find my work interesting, feel free to star my repositories!
-
-**"I don't just build models—I build solutions that drive real business impact."** 🚀
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bishalkumarsaroj-ds&color=00D9FF&style=for-the-badge)
+### 🎯 **Ready to make an impact? Reach out!**
 
-*Last Updated: September 26, 2026*
+<img src="https://img.shields.io/badge/Response_Time-Within_24hrs-success?style=flat-square"/>
+
+<br/><br/>
+
+**"Let's build something meaningful together."** 🚀
 
 </div>
+
+---
