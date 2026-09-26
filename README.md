@@ -410,14 +410,12 @@ open_to:
 
 | Position | Type | Location |
 |---|---|---|
-| 🎯 Data Scientist | Full-time | Remote / Bengaluru |
-| 📊 Data Analyst | Full-time | Pondicherry / Chennai |
-| 🤖 Business Analyst | Full-time / Contract | India-based |
-
+| 🎯 Data Scientist | Full-time | Anywhere in India or Globally |
+| 📊 Data Analyst | Full-time | Anywhere in India or Globally |
+| 🤖 Business Analyst | Full-time / Contract | Anywhere in India or Globally |
 <br/>
 
-**Status:** 🟢 Open to Opportunities | 📞 Ready to Join | 💼 Actively Interviewing
-
+**Status:** 🟢 Open to Opportunities | 🌍 Open to Global Roles | 📞 Ready to Join | 💼 Actively Interviewing
 <br/><br/>
 
 ### Let's Build Something Great Together! 🚀
